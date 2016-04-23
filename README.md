@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MichaelKohler/ivory.svg?branch=master)](https://travis-ci.org/MichaelKohler/ivory)
+
 Ivory
 =====
 
