@@ -1,3 +1,4 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 [![Build Status](https://travis-ci.org/MichaelKohler/ivory.svg?branch=master)](https://travis-ci.org/MichaelKohler/ivory)
 
 Ivory
